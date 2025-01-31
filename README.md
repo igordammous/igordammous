@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @igordammous
-- 👀 I’m interested in engineering, gaming, reading and now programing 
-- 🌱 I’m currently learning programing and going toward data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me igordammous@gmail.com or https://www.linkedin.com/in/igordammous/ or here
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+# I’m @igordammous
+
+I’m interested in engineering, gaming, reading, football and now programming. Right now studying in @Alura 
+
+* 🌱 I’m currently learning Python and R
+
+How to reach me igordammous@gmail.com or https://www.linkedin.com/in/igordammous/ or here
+
+Pronouns: he/him
+
 
 <!---
 igordammous/igordammous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
