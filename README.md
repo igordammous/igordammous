@@ -4,7 +4,10 @@ I’m interested in engineering, gaming, reading, football and now programming. 
 
 * 🌱 I’m currently learning Python and R
 
-How to reach me igordammous@gmail.com or https://www.linkedin.com/in/igordammous/ or here
+
+#### Here you can see my [certificates](https://cursos.alura.com.br/user/igordammous/fullCertificate/0a0cd9f09159d77a35bcbbb955b3af5c)
+
+#### How to reach me igordammous@gmail.com or https://www.linkedin.com/in/igordammous/ or here
 
 Pronouns: he/him
 
