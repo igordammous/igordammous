@@ -1,6 +1,6 @@
 # I’m @igordammous
 
-I’m interested in engineering, gaming, reading, football and now programming. Right now studying in @Alura 
+I’m interested in engineering, gaming, reading, football and now programming. Right now studying in [@Alura](https://cursos.alura.com.br/dashboard) and with [@TeoMeWhy](https://teomewhy.org/) 
 
 * 🌱 I’m currently learning Python and R
 
