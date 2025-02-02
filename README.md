@@ -10,7 +10,7 @@ I’m interested in engineering, gaming, reading, football and now programming. 
 #### How to reach me igordammous@gmail.com or https://www.linkedin.com/in/igordammous/ or here
 
 Pronouns: he/him
-
+"All the decisions people make at their organizations each day can be improved with data"
 
 <!---
 igordammous/igordammous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
